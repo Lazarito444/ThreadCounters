@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Asignaturas\ProgParalela\ProgParalela\ProgParalela.Multithreading\bin\Debug\net8.0\ProgParalela.Multithreading.exe
+C:\Users\Admin\Desktop\Asignaturas\ProgParalela\ProgParalela\ProgParalela.Multithreading\bin\Debug\net8.0\ProgParalela.Multithreading.deps.json
+C:\Users\Admin\Desktop\Asignaturas\ProgParalela\ProgParalela\ProgParalela.Multithreading\bin\Debug\net8.0\ProgParalela.Multithreading.runtimeconfig.json
+C:\Users\Admin\Desktop\Asignaturas\ProgParalela\ProgParalela\ProgParalela.Multithreading\bin\Debug\net8.0\ProgParalela.Multithreading.dll
+C:\Users\Admin\Desktop\Asignaturas\ProgParalela\ProgParalela\ProgParalela.Multithreading\bin\Debug\net8.0\ProgParalela.Multithreading.pdb
+C:\Users\Admin\Desktop\Asignaturas\ProgParalela\ProgParalela\ProgParalela.Multithreading\obj\Debug\net8.0\ProgParalela.Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Asignaturas\ProgParalela\ProgParalela\ProgParalela.Multithreading\obj\Debug\net8.0\ProgParalela.Multithreading.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Asignaturas\ProgParalela\ProgParalela\ProgParalela.Multithreading\obj\Debug\net8.0\ProgParalela.Multithreading.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Asignaturas\ProgParalela\ProgParalela\ProgParalela.Multithreading\obj\Debug\net8.0\ProgParalela.Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Asignaturas\ProgParalela\ProgParalela\ProgParalela.Multithreading\obj\Debug\net8.0\ProgParalela.Multithreading.dll
+C:\Users\Admin\Desktop\Asignaturas\ProgParalela\ProgParalela\ProgParalela.Multithreading\obj\Debug\net8.0\refint\ProgParalela.Multithreading.dll
+C:\Users\Admin\Desktop\Asignaturas\ProgParalela\ProgParalela\ProgParalela.Multithreading\obj\Debug\net8.0\ProgParalela.Multithreading.pdb
+C:\Users\Admin\Desktop\Asignaturas\ProgParalela\ProgParalela\ProgParalela.Multithreading\obj\Debug\net8.0\ProgParalela.Multithreading.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Asignaturas\ProgParalela\ProgParalela\ProgParalela.Multithreading\obj\Debug\net8.0\ref\ProgParalela.Multithreading.dll
